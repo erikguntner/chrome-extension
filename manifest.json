@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Swell",
+  "description": "Find the nearest breweries and concerts in your area",
+  "version": "1.3",
+  "browser_action": {
+    "default_icon": "img/shaka.png",
+    "default_popup": "popup/popup.html"
+  }
+}
